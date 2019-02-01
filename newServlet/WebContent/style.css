@@ -1,0 +1,27 @@
+body {
+	background:darkgray;
+	color:white;
+	width:10em;
+	margin:auto;
+}
+
+form {
+	width:10em;
+}
+
+input {
+	float:left;
+	width:11.5em;
+	text-align:center;
+
+}
+
+button {
+	background:white;
+	color:black;
+	border:2px black solid;
+	font-weight:bold;
+	padding:1em;
+	display:block;
+	margin:auto;
+}
