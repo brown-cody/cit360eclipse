@@ -59,7 +59,7 @@ public class MyServlet extends HttpServlet {
 				+ "<body>"
 				+ "<h2>Congrats!</h2>"
 				+ "<p>Java Object \"newUser\" created from user data using this servlet."
-				+ "<p>Data below referened from Java Object.</p>"
+				+ "<p>Data below referenced from Java Object.</p>"
 				+ "<h2>Info Entered:</h2>");
 		pw.println("<p>First Name: " + newUser.getFirstName() + "</p><p>Last Name: " + newUser.getLastName() + "</p><p>Zip Code: " + newUser.getZip());
 		pw.println("</body>"
